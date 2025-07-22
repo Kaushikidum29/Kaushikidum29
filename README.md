@@ -22,6 +22,5 @@
 📬 **Connect with me**:
 - [LinkedIn](https://www.linkedin.com/in/kaushiki-kumari-immidiate-joiner-338019205/)
 - [LeetCode](https://leetcode.com/u/kaushikidum29/)
-- [Medium](https://medium.com/@kaushikidum29)
 
 Thank you for visiting my profile!
