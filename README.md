@@ -20,8 +20,8 @@
 - Git, CI/CD
 
 📬 **Connect with me**:
-- [LinkedIn]([link](https://www.linkedin.com/in/kaushiki-kumari-338019205/))
-- [LeetCode]([link](https://leetcode.com/u/kaushikidum29/))
-- [Medium]([link](https://medium.com/@kaushikidum29))
+- [LinkedIn](https://www.linkedin.com/in/kaushiki-kumari-338019205/)
+- [LeetCode](https://leetcode.com/u/kaushikidum29/)
+- [Medium](https://medium.com/@kaushikidum29)
 
 Thank you for visiting my profile!
