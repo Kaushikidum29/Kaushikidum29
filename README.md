@@ -20,7 +20,7 @@
 - Git, CI/CD
 
 📬 **Connect with me**:
-- [LinkedIn](https://www.linkedin.com/in/kaushiki-kumari-338019205/)
+- [LinkedIn](https://www.linkedin.com/in/kaushiki-kumari-immidiate-joiner-338019205/)
 - [LeetCode](https://leetcode.com/u/kaushikidum29/)
 - [Medium](https://medium.com/@kaushikidum29)
 
